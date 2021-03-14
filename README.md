@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-self-use
+用于学习数据结构与算法过程中总结复习。
