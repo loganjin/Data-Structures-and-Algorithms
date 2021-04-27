@@ -12,7 +12,7 @@ bool Del_Min(SqList &L,Elemtype &e){
   
   e=L.data[0];//假设0号元素的值最小
   int pos=0;
-  for(int i=1;i<=L.length;i++){
+  for(int i=1;i<L.length;i++){
     if(L.data[i]<e){
       e=L.data[i];
       pos=i;
